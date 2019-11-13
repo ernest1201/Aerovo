@@ -1,2 +1,19 @@
-<Hier komt de git handleiding>
-<test 1234>
+Project updaten:
+Om je project bij te werken ga naar "VCS" en klik op "Update Project...", je kan ook CTRL + T gebruiken.
+
+Commit Changes:
+Om je changes te commiten ga naar "VCS" en klik op "Commit...", je kan ook CTRL + K gebruiken.
+
+Doe dit elke keer nadat je iets hebt gemaakt wat werkt, en niet pas nadat je een hele feature hebt gemaakt.
+Commits kan je namelijk terugdraaien en als er iets kapot gaat hoef je niet iets helemaal opnieuw te maken.
+
+Changes pushen:
+Om je changes te pushen ga naar "VCS" klik op "Git" ga dan in het dropdown menu naar "Push...", je kan ook CTRL + SHIFT + K gebruiken.
+Er komt dan een popup-scherm waar je in het linker veld de branche ziet welke je gaat pushen en waar naar bijv. "Ernest-test-local -> origin:Ernest-test-local".
+De eerste "Ernest-test-local" is je lokale branch waar je in werkt en welke gepushed gaat worden, de tweede "Ernest-test-local" is de branch in git waar je naar gaat pushen.
+Deze kan je veranderen, er wordt dan als de branch nog niet bestaat een nieuwe branch aangemaakt.
+
+PUSH NOOIT DIRECT NAAR MASTER!!!!!!!!!
+
+Mergen:
+Om je werk in de master branch te zetten moet je een zogenaamde pull request maken, dit doe je door via de site op
