@@ -19,3 +19,5 @@ PUSH NOOIT DIRECT NAAR MASTER!!!!!!!!!
 
 Mergen:
 Om je werk in de master branch te zetten moet je een zogenaamde pull request maken, dit doe je door via de site op pull request te drukken en daar de branch die je naar de master of een andere branch wil pullen te selecteren. De rest wijst zich vanzelf.
+
+Na een pull request gemaakt te hebben dient deze nog goedgekeurd te worden als het naar de master is. Hiervoor moeten 2 mensen je pull request approven dit doe je ook via de site.
