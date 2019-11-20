@@ -13,7 +13,9 @@ Er komt dan een popup-scherm waar je in het linker veld de branche ziet welke je
 De eerste "Ernest-test-local" is je lokale branch waar je in werkt en welke gepushed gaat worden, de tweede "Ernest-test-local" is de branch in git waar je naar gaat pushen.
 Deze kan je veranderen, er wordt dan als de branch nog niet bestaat een nieuwe branch aangemaakt.
 
+Voordat je daadwerkelijk gaat pushen is het aan te raden om eerst nog je branch up te daten, voor hoe je dat doet zie bovenste kopje.
+
 PUSH NOOIT DIRECT NAAR MASTER!!!!!!!!!
 
 Mergen:
-Om je werk in de master branch te zetten moet je een zogenaamde pull request maken, dit doe je door via de site op
+Om je werk in de master branch te zetten moet je een zogenaamde pull request maken, dit doe je door via de site op pull request te drukken en daar de branch die je naar de master of een andere branch wil pullen te selecteren. De rest wijst zich vanzelf.
